@@ -1,1 +1,1 @@
-# eCommerce_Website
+# eCommerce_Website -> This is a responsive website which is made using HTML,CSS and Bootstrap. It is a beginner friendly website where everyone can learn about creating a e-Commerce website and adding responsiveness to it.
